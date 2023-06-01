@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900101921541",
+    "project_id": "saad-social-media-app",
+    "storage_bucket": "saad-social-media-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900101921541:android:4efea515338f2d81b4356c",
+        "android_client_info": {
+          "package_name": "com.example.saad_social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900101921541-3dk0lvsplem12m8peeuh8pu1os9a1hcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlWeeQKm8JGbJedrTQ7mdahulICIBAVJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900101921541-3dk0lvsplem12m8peeuh8pu1os9a1hcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
